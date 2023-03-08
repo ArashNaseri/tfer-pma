@@ -133,7 +133,7 @@ This code should be cited by:
 2. optionally citing the code directly (making reference to the GitHub repository at https://github.com/tsipkens/tfer-pma).
 
 #### References
-
+<!-- 
 [Reavell, K., J. P. R. Symonds, and M. G. Rushton. 2011. Simplified approximations to centrifugal particle mass analyser performance. Poster presented at the European Aerosol Conference, Manchester, UK, September 4.][reavell]
 
 [Sipkens, T. A., J. S. Olfert, and S. N. Rogak. 2020a. New approaches to calculate the transfer function of particle mass analyzers. *Aerosol Sci. Technol.* 54:1, 111-127. DOI: 10.1080/02786826.2019.1680794.][ast20]
@@ -141,3 +141,11 @@ This code should be cited by:
 [ast20]: https://doi.org/10.1080/02786826.2019.1680794
 
 [reavell]: https://www.researchgate.net/publication/267448365_Simplified_Approximations_to_Centrifugal_Particle_Mass_Analyser_Performance
+ -->
+ #### References
+
+[Sipkens, T. A., J. S. Olfert, and S. N. Rogak. 2020a. New approaches to calculate the transfer function of particle mass analyzers. *Aerosol Sci. Technol.* 54:1, 111-127. DOI: 10.1080/02786826.2019.1680794.](https://doi.org/10.1080/02786826.2019.1680794)
+
+[A. Naseri. ArashNaseri/empirical-cpma-tfer: empirical-cpma- tfer_v2.0.0, Feb. 2023.](https://doi.org/10.5281/zenodo.7686025)
+
+[Naseri, A., Johnson, T., Smallwood, G., & Olfert, J. S. (2023). Measurement of the centrifugal particle mass analyzer transfer function. *Aerosol Science and Technology*. DOI: 10.1080/02786826.2023.2036489.](https://doi.org/10.1080/02786826.2023.2036489)
